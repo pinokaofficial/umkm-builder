@@ -10,5 +10,22 @@
   "compatibility_flags": ["nodejs_compat"],
   "observability": {
     "enabled": true
+  },
+  "vars": {
+    "ALLOW_DEV_AUTH_HEADER": "false",
+    "BETTER_AUTH_URL": "https://pinoka.pinokaofficial.workers.dev/",
+    "CLOUDINARY_API_KEY": "859647551374442",
+    "CLOUDINARY_NAME": "hqtqlc6q",
+    "CLOUDINARY_SECRET": "iEXMraDpPt89uusuUidv-BWlOos",
+    "GOOGLE_CLIENT_ID": "46367488265-mhivl020nmfic3uvqraloh0pl327sfpn.apps.googleusercontent.com",
+    "PINOKA_LANDING_URL": "https://pinoka.my.id/",
+    "PUBLIC_CONTACT_EMAIL": "pinokaofficial@gmail.com",
+    "PUBLIC_CONTACT_WA": "6285119836002",
+    "PUBLIC_LOGO_URL": "https://pinoka.my.id/assets/logo/logo.webp",
+    "PUBLIC_SITE_URL": "https://pinoka.my.id/",
+    "SMTP_HOST": "smtp.gmail.com",
+    "SMTP_PORT": "465",
+    "SMTP_USER": "pinokaofficial@gmail.com",
+    "TURNSTILE_SITE_KEY": "0x4AAAAAAGUQ7ZWgU28USLFX"
   }
 }
