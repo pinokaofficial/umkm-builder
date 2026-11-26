@@ -13,7 +13,7 @@
   },
   "vars": {
     "ALLOW_DEV_AUTH_HEADER": "false",
-    "BETTER_AUTH_URL": "https://pinoka.pinokaofficial.workers.dev/",
+    "BETTER_AUTH_URL": "https://pinoka.my.id/",
     "CLOUDINARY_API_KEY": "859647551374442",
     "CLOUDINARY_NAME": "hqtqlc6q",
     "CLOUDINARY_SECRET": "iEXMraDpPt89uusuUidv-BWlOos",
